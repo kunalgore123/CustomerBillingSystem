@@ -1,0 +1,56 @@
+﻿Build started 09-Dec-19 1:41:15 AM.
+     1>Project "c:\Users\Kunal\documents\visual studio 2012\Projects\CustomerBillingSystem\CustomerBillingSystem\CustomerBillingSystem.vcxproj" on node 2 (Build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Debug\CustomerBillingSystem.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt SourceCode.cpp
+         SourceCode.cpp
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(53): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(55): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(57): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(59): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(61): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(63): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(65): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(118): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(122): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(135): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(144): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(161): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(176): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(198): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(132) : see declaration of 'getche'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(204): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(290) : see declaration of 'scanf'
+     1>c:\users\kunal\documents\visual studio 2012\projects\customerbillingsystem\customerbillingsystem\sourcecode.cpp(221): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\conio.h(132) : see declaration of 'getche'
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"c:\users\kunal\documents\visual studio 2012\Projects\CustomerBillingSystem\Debug\CustomerBillingSystem.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"c:\users\kunal\documents\visual studio 2012\Projects\CustomerBillingSystem\Debug\CustomerBillingSystem.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"c:\users\kunal\documents\visual studio 2012\Projects\CustomerBillingSystem\Debug\CustomerBillingSystem.lib" /MACHINE:X86 Debug\SourceCode.obj
+         CustomerBillingSystem.vcxproj -> c:\users\kunal\documents\visual studio 2012\Projects\CustomerBillingSystem\Debug\CustomerBillingSystem.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\CustomerBillingSystem.unsuccessfulbuild".
+         Touching "Debug\CustomerBillingSystem.lastbuildstate".
+     1>Done Building Project "c:\Users\Kunal\documents\visual studio 2012\Projects\CustomerBillingSystem\CustomerBillingSystem\CustomerBillingSystem.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.59
